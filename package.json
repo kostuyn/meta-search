@@ -1,0 +1,19 @@
+{
+  "name": "meta-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "start": "node index.js"
+  },
+  "author": "Altuhov Konstantin",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.85.0",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
+  }
+}
